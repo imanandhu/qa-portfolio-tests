@@ -1,0 +1,1 @@
+# Security Headers Report\n\nMissing Content-Security-Policy and HSTS headers.

@@ -1,0 +1,1 @@
+# XSS Report\n\nIdentified a reflected XSS on the search parameter.
