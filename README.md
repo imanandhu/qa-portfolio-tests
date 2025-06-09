@@ -1,7 +1,7 @@
 
 # QA Automation Projects
 
-This repository showcases end-to-end quality assurance projects using:
+This repository contains my hands-on automation testing projects using Java (Selenium/TestNG), Cypress (JavaScript), Postman (API), K6 (Performance), and Burp Suite (Security Testing). These are simplified examples based on real scenarios I’ve worked on in B2B SaaS environments.
 - Selenium with Java & TestNG
 - Cypress with JavaScript
 - Postman for API testing
