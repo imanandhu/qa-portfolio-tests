@@ -19,7 +19,7 @@ public class LoginTest {
 
     @Test
     public void testLogin() {
-        driver.get("https://example.com/login");
+        driver.get("https://opensource-demo.orangehrmlive.com/");
         driver.findElement(By.id("username")).sendKeys("testuser");
         driver.findElement(By.id("password")).sendKeys("password");
         driver.findElement(By.id("loginButton")).click();
